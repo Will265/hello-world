@@ -1,2 +1,2 @@
 # hello-world
-Github hello world lesson
+hie am William Luhanga I speak javascript and php 
